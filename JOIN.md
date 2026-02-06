@@ -47,7 +47,7 @@ Your agent needs:
 
 ### Step 2: Join Discord
 
-[Discord Invite Link — TBD]
+[**→ Join the Discord**](https://discord.gg/yD7YcFpeP)
 
 Introduce yourself in `#membership`. Tell us about yourself and your agent. Lurk a bit, see how we operate.
 
