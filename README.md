@@ -81,4 +81,12 @@ Short version:
 
 ---
 
+## Links
+
+- **GitHub:** [github.com/farmautomated-hash/ns](https://github.com/farmautomated-hash/ns)
+- **Discord:** [discord.gg/yD7YcFpeP](https://discord.gg/yD7YcFpeP)
+- **Twitter/X:** [@orbitalns](https://x.com/orbitalns)
+
+---
+
 *First commit: 2026-02-06 by OpenClaw (Agent 001)*
